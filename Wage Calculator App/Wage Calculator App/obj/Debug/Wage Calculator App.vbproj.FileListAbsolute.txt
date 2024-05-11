@@ -1,0 +1,36 @@
+E:\Midterm\Wage Calculator App\Wage Calculator App\bin\Debug\Wage Calculator App.exe.config
+E:\Midterm\Wage Calculator App\Wage Calculator App\bin\Debug\Wage Calculator App.exe
+E:\Midterm\Wage Calculator App\Wage Calculator App\bin\Debug\Wage Calculator App.pdb
+E:\Midterm\Wage Calculator App\Wage Calculator App\bin\Debug\Wage Calculator App.xml
+E:\Midterm\Wage Calculator App\Wage Calculator App\obj\Debug\Wage Calculator App.vbprojAssemblyReference.cache
+E:\Midterm\Wage Calculator App\Wage Calculator App\obj\Debug\Wage_Calculator_App.frmWageCalculatorApp.resources
+E:\Midterm\Wage Calculator App\Wage Calculator App\obj\Debug\Wage_Calculator_App.Resources.resources
+E:\Midterm\Wage Calculator App\Wage Calculator App\obj\Debug\Wage Calculator App.vbproj.GenerateResource.cache
+E:\Midterm\Wage Calculator App\Wage Calculator App\obj\Debug\Wage Calculator App.vbproj.CoreCompileInputs.cache
+E:\Midterm\Wage Calculator App\Wage Calculator App\obj\Debug\Wage Calculator App.exe
+E:\Midterm\Wage Calculator App\Wage Calculator App\obj\Debug\Wage Calculator App.xml
+E:\Midterm\Wage Calculator App\Wage Calculator App\obj\Debug\Wage Calculator App.pdb
+C:\Users\105047\OneDrive\Midterm\Wage Calculator App\Wage Calculator App\bin\Debug\Wage Calculator App.exe.config
+C:\Users\105047\OneDrive\Midterm\Wage Calculator App\Wage Calculator App\bin\Debug\Wage Calculator App.exe
+C:\Users\105047\OneDrive\Midterm\Wage Calculator App\Wage Calculator App\bin\Debug\Wage Calculator App.pdb
+C:\Users\105047\OneDrive\Midterm\Wage Calculator App\Wage Calculator App\bin\Debug\Wage Calculator App.xml
+C:\Users\105047\OneDrive\Midterm\Wage Calculator App\Wage Calculator App\obj\Debug\Wage Calculator App.vbprojAssemblyReference.cache
+C:\Users\105047\OneDrive\Midterm\Wage Calculator App\Wage Calculator App\obj\Debug\Wage_Calculator_App.frmWageCalculatorApp.resources
+C:\Users\105047\OneDrive\Midterm\Wage Calculator App\Wage Calculator App\obj\Debug\Wage_Calculator_App.Resources.resources
+C:\Users\105047\OneDrive\Midterm\Wage Calculator App\Wage Calculator App\obj\Debug\Wage Calculator App.vbproj.GenerateResource.cache
+C:\Users\105047\OneDrive\Midterm\Wage Calculator App\Wage Calculator App\obj\Debug\Wage Calculator App.vbproj.CoreCompileInputs.cache
+C:\Users\105047\OneDrive\Midterm\Wage Calculator App\Wage Calculator App\obj\Debug\Wage Calculator App.exe
+C:\Users\105047\OneDrive\Midterm\Wage Calculator App\Wage Calculator App\obj\Debug\Wage Calculator App.xml
+C:\Users\105047\OneDrive\Midterm\Wage Calculator App\Wage Calculator App\obj\Debug\Wage Calculator App.pdb
+D:\Midterm\Wage Calculator App\Wage Calculator App\bin\Debug\Wage Calculator App.exe.config
+D:\Midterm\Wage Calculator App\Wage Calculator App\bin\Debug\Wage Calculator App.exe
+D:\Midterm\Wage Calculator App\Wage Calculator App\bin\Debug\Wage Calculator App.pdb
+D:\Midterm\Wage Calculator App\Wage Calculator App\bin\Debug\Wage Calculator App.xml
+D:\Midterm\Wage Calculator App\Wage Calculator App\obj\Debug\Wage Calculator App.vbprojAssemblyReference.cache
+D:\Midterm\Wage Calculator App\Wage Calculator App\obj\Debug\Wage_Calculator_App.frmWageCalculatorApp.resources
+D:\Midterm\Wage Calculator App\Wage Calculator App\obj\Debug\Wage_Calculator_App.Resources.resources
+D:\Midterm\Wage Calculator App\Wage Calculator App\obj\Debug\Wage Calculator App.vbproj.GenerateResource.cache
+D:\Midterm\Wage Calculator App\Wage Calculator App\obj\Debug\Wage Calculator App.vbproj.CoreCompileInputs.cache
+D:\Midterm\Wage Calculator App\Wage Calculator App\obj\Debug\Wage Calculator App.exe
+D:\Midterm\Wage Calculator App\Wage Calculator App\obj\Debug\Wage Calculator App.xml
+D:\Midterm\Wage Calculator App\Wage Calculator App\obj\Debug\Wage Calculator App.pdb
